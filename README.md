@@ -1,1 +1,3 @@
-# genetic_distance
+# Investigate Genetic Distance between Species
+
+The aim of this study is to investigate whether the sheep is closer to the goat or to the deer in its genetic structure. This investigation has used the Cytochrome B and the Cytochrome c-oxidase subunit 1 protein coding regions, found in the mitochondria of these species, as the basis of the investigation. The methods used in this study estimate the genetic distance between pairs of these sequences by measuring the number of mutations between them. This estimate is then corrected using the Jukes-Cantor model. The genetic distances are then presented as a Phylogenetic tree using the Neighbor-Joining Tree method. A multiple alignment between the Sheep, its nearby neighbors and the Goat is also done and compared with a similar multiple sequence alignment between the Sheep, its neighbors and just the Deer. In our study we found that the Sheep is indeed closer to the Goat than it is to the Deer.
